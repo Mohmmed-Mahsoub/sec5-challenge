@@ -1,0 +1,27 @@
+/* Start Global */
+
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #e8e8e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* End Global*/
+
+/* Start Show Case */
+.show-case {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35vw;
+    height: 200px;
+    box-shadow: 5px 5px 20px #333, -5px -5px 20px #333;
+}
+
+
+/* End Show Case */
